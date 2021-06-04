@@ -1,6 +1,6 @@
 # UTS Pemrograman GUI
-NAMA  : Novian Dwi Romadon
-NIM   : 19104011
+NAMA  : Novian Dwi Romadon\
+NIM   : 19104011\
 KELAS : SE03A
 
 # 1. Data Mahasiswa
